@@ -8,6 +8,14 @@ Yeh project 3 Degree of Freedom (3-DOF) robotic arm ke liye hai jisme:
 
 ---
 
+## 📸 Simulation Previews
+
+| RViz 2 3D Model | Gazebo Physics Simulation |
+| :---: | :---: |
+| ![RViz 2](images/rviz_arm.jpg) | ![Gazebo](images/gazebo_arm.jpg) |
+
+---
+
 ## 🔌 Hardware Circuit & Wiring
 
 ### Servo Pin Mapping:
